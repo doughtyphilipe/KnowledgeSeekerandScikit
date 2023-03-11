@@ -7,18 +7,18 @@ This is a Google Colab application that uses two different approaches (Knowledge
 The Knowledge Seeker Method, originally described in [Knowledge Seeker - Ontology Modelling for Information Search and Management](https://link.springer.com/book/10.1007/978-3-642-17916-7), was applied in German Industry Norms ([DIN](https://en.wikipedia.org/wiki/Deutsches_Institut_f%C3%BCr_Normung)). This thesis debates the usage, the hurdles and algorithm behind this method. The results can be found in the knowledge_seeker.ipynb file.
 
 The following picture describes a first analysis, right after training our model with springer link books. In this case the domain area was "Konstruktion" (Mechanical Engineering Design).
-![knowledgeseeker](https://github.com/doughtyphilipe/KnowledgeSeekerandScikit/blob/main/knowledgeseeker.jpg)
-
+![knowledgeseeker](https://user-images.githubusercontent.com/123315352/224511538-06e46c40-334c-4c7d-ab49-cf1835b1421a.jpg)
 
 ## Scikit
 
 The Scikit methods for text classification are broadly debated [here](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html). We applied and disscusedthe diferences between these methods and the Knowledge Seeker method. The results can be found in the norm_classifier.ipynb file.
 
 The following picture describes a general text pre-processing method that we applied in this thesis.
-![scikit](https://github.com/doughtyphilipe/KnowledgeSeekerandScikit/blob/main/preprocessing.PNG)
+![preprocessing](https://user-images.githubusercontent.com/123315352/224511545-698d4984-5496-44c9-b99f-516a5255b5ad.PNG)
 
 The following picture describes one of the final results, a classified DIN Norm.
-![scikit](https://github.com/doughtyphilipe/KnowledgeSeekerandScikit/blob/main/xmlexample.jpg)
+![xmlexample](https://user-images.githubusercontent.com/123315352/224511552-23d4f449-37b2-4814-b75e-e1c1e632661c.jpg)
+
 
 ## Features
 Classification of German industry norms (DIN) using two approaches
