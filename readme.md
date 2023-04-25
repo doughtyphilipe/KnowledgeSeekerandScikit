@@ -387,3 +387,7 @@ plt.tick_params(axis='y', colors='white')
 ```
 
 ![LearningCurve](https://user-images.githubusercontent.com/123315352/234392473-4c9518b0-3f67-41bf-86bf-7d5ff3c5efc7.png)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
